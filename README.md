@@ -8,6 +8,9 @@ The name of my project is snowflake generator, and it is a command line program 
 As the name suggests, this program was designed to generate random snowflake designs, which are displayed on a bitmap image.
 To run this porgram, the user has to type the command **./snow**. The program will generate a random design. The user can then view the design by opening the bitmap image
 
+#### Disclaimer
+Please note that I am a beginner and currently in the process of learning and improving my coding skills, so some of the code in this repository may be messy, inefficient, or not follow best practices. I am actively working to refine my skills and improve the code over time, so any feedback or suggestions are welcome!
+
 ### How it works
 
 ## makeflake
